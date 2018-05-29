@@ -47,3 +47,7 @@ gitbook:
 ```
 
 之後只要輸入 `make gitbook`，就可以產生 gitbook
+
+## 一些其他技巧
+
+* [快速產生列表](generate-list.md)
