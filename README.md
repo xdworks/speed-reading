@@ -1,2 +1,3 @@
-# Introduction
+# 激進學習法
 
+整理 xdite 的學習法，以及相關工具
