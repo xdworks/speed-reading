@@ -30,7 +30,9 @@
 3. 手動排版成 Gitbook 然後再轉成 epub 丟到多看
 4. 使用極速讀書法完食
 
-以上方法工具輔助 [機翻大法工具](machine-translate.md)
+
+* 以上方法工具輔助 [機翻大法工具](machine-translate.md)
+* Gitbook 製作請看 [Gitbook](gitbook.md)
 
 
 ## 方法 2：土豪金錢燃燒翻譯法
